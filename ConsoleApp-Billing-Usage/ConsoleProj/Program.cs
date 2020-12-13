@@ -15,7 +15,7 @@ using System.Configuration;
 
 namespace ARMAPI_Test
 {
-#error Please update the appSettings section in app.config, then remove this statement
+// #error Please update the appSettings section in app.config, then remove this statement
 
     class Program
     {
